@@ -4,7 +4,7 @@ from datetime import datetime
 
 # تنظیمات صفحه
 st.set_page_config(
-    page_title="دستیار هوشمند تاجر موفق",
+    page_title="دستیار هوشمند تاجرموفق",
     page_icon="💼",
     layout="wide",
     initial_sidebar_state="expanded"
